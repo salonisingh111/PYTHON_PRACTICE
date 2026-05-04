@@ -28,13 +28,13 @@
 #     return count
 # print(count_even(1,2,3,4,5,6,7,8,9))
 
- Q6 — Mixed (Function + *args + Logic)
-def sum_even(*args):
-    total = 0
+#  Q6 — Mixed (Function + *args + Logic)
+# def sum_even(*args):
+#     total = 0
 
-    for num in args:
-        if num % 2 == 0:
-            total += num
-    return total
-print(sum_even(1,2,3,4,5,6))
+#     for num in args:
+#         if num % 2 == 0:
+#             total += num
+#     return total
+# print(sum_even(1,2,3,4,5,6))
 
