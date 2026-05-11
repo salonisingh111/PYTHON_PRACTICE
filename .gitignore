@@ -1,0 +1,5 @@
+node_modules/
+.antigravity/
+.vscode/
+__pycache__/
+*.pyc

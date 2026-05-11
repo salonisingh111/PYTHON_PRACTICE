@@ -1,3 +1,11 @@
+# Create a Python program to store an employee’s details such as first name, last name, address, age, experience, position, and salary.
+# The program should:
+# Join first name and last name into a full name
+# Display employee information using string concatenation and f-strings
+# Extract department code, year code, and initials from an employee code using string slicing
+# Print all outputs properly.
+
+
 first_name = 'John'
 last_name = 'Doe'
 full_name = first_name + ' ' + last_name
