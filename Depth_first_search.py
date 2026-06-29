@@ -10,4 +10,4 @@ def dfs(graph, start_node):
             for neighbor in range(len(row) - 1, -1, -1):
                 if row[neighbor] == 1 and neighbor not in visited:
                     stack.append(neighbor)
-            
+    return visited        
